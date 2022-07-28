@@ -1,4 +1,4 @@
-text = [
+const text = [
     'If we talk about the modern front - end development technologies, React.js is absolutely killing it.The general perception is no language or framework is made to last forever, sooner or later a much more powerful alternative will make its entry.',
     'ReactJS is one of those JavaScript-based libraries used in web development and building interactive elements on the website. JavaScript is used to build and control dynamic website content like animated graphics, slideshows, photos, and interactive forms.',
     'And then all of a sudden a library called ‘React js’ comes to change the web landscape completely. Using SSR (Server-Side Rendering), now you can build web applications much faster and in an easier way than before. React changed the development landscape just like smartphones replace traditional phones.',

@@ -6,7 +6,6 @@ Text taken from news articles about React.
 
 ## Tools
 
-
 ## Future Directions
 1. Randomize text using lists of nouns/verbs/prepositions etc to build up pseudo-random nonsense sentences instead of blocks of sensible text.
 
